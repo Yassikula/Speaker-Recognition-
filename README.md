@@ -1,5 +1,5 @@
 # Speaker-Recognition-
-
+Speaker Identification using Neural Net.
 
 Kaggle
 Dataset Source - [Kaggle](https://www.kaggle.com/kongaevans/speaker-recognition-dataset)
